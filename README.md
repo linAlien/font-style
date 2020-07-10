@@ -30,4 +30,14 @@ export default {
  
 ```
 
+### 参数
+参数 | 类型 | 可选值 | 说明
+---|---|---|---
+font | String | | 文字
+color | String | | #cccccc
+size | String | | 12px
+type| String | primary,ColorText,ShadowText | 文字类型
+
+
+
 
