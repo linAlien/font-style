@@ -1,5 +1,5 @@
 # vue-font-style-simple
-vue设置字体小插件
+vue设置文字样式小插件
 
 ### 下载该组件 
 ```javascript
